@@ -1,11 +1,10 @@
 numpy
-pandas
-scikit-learn
 matplotlib
 seaborn
-tensorflow
 keras
 tensorboard
-streamlit
-fastapi
-uvicorn
+streamlit>=1.30.0
+protobuf<=3.20.3
+tensorflow==2.20.0
+pandas==3.0.0
+scikit-learn==1.8.0
